@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Bhavishya's Stats](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 -->
 
@@ -51,3 +50,5 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
+
+![Bhavishya's Stats](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
