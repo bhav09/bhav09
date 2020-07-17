@@ -48,3 +48,6 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 
 | Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
 | :---: | :---: | :---: | :---: | :---: |
+
+| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
+| :---: | :---: | :---: | :---: | :---: |
