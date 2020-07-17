@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Bhavishya's Stats](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 -->
 
 I am a Machine Learning enthusiast , Pythonista , Open Source Contributor and a Speaker!
@@ -31,3 +33,5 @@ I am a Machine Learning enthusiast , Pythonista , Open Source Contributor and a 
 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaPandi2) 
 
 📄 Resume : https://rebrand.ly/click_to_view_resume 
+
+
