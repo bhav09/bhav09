@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 I am a Machine Learning enthusiast , Pythonista , Open Source Contributor and a Speaker!
 
+🌱 I’m currently learning: Deep Learning
+
 🔭 I’m currently working on : Deep Learning with Pytorch.
 
 💬 Ask me about: Python , Machine Learning , Cosmos and a good playlist 🎧
