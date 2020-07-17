@@ -22,3 +22,5 @@ I am Machine Learning enthusiast and a Pythonista!
 💬 Ask me about: Python , Machine Learning , Cosmos and a good playlist 🎧
 
 ⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
+
+💻 Code shot: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily.And here you're not even able to pronounce it😂
