@@ -2,8 +2,7 @@
 
 ### Hi there 👋 My name is Bhavishya Pandit! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaPandi2) 
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaPandi2) ![visitors](https://hit-badger.glitch.me/badge?page_id=bhav09.id)
 
 <!--
 **bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +40,7 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 
 | Python | Sklearn | C++ | Tkinter | Tableau |
 | :---: | :---: | :---: | :---: | :---: |
+
 
 | Selenium | C | SQL | Pytorch | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
