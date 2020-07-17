@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Machine Learning enthusiast and a Pythonista! 
+I am Machine Learning enthusiast and a Pythonista!
+
+🔭 I’m currently working on : Deep Learning with Pytorch.
+
+💬 Ask me about: Python , Machine Learning , Cosmos and a good playlist 🎧
+
+⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
