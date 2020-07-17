@@ -2,6 +2,8 @@
 
 ### Hi there 👋 My name is Bhavishya Pandit! 
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaPandi2) 
+
 
 <!--
 **bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,8 +33,6 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 ⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
-
-📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaPandi2) 
 
 📄 Resume : https://rebrand.ly/click_to_view_resume 
 
