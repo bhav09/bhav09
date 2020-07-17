@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Machine Learning enthusiast , Pythonista and a Speaker!
+I am a Machine Learning enthusiast , Pythonista , Open Source Contributor and a Speaker!
 
 🔭 I’m currently working on : Deep Learning with Pytorch.
 
