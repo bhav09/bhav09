@@ -27,7 +27,7 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 
 🔭 I’m currently working on : Deep Learning with Pytorch.
 
-💬 Ask me about: Python , Machine Learning , Cosmos , witty jokes and a good playlist 🎧
+💬 Ask me about: Python , Machine Learning , Cosmos , jokes and a good playlist🎧
 
 ⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
 
