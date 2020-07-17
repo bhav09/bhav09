@@ -34,7 +34,7 @@ I am a Machine Learning enthusiast , Pythonista , Open Source Contributor and a 
 
 📄 Resume : https://rebrand.ly/click_to_view_resume 
 
-### Languages and Tools
+### Languages and Tools-
 
 
 | Python | Sklearn | C++ | Tkinter | Tableau |
