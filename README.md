@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Machine Learning enthusiast , Pythonista , Open Source Contributor and a Speaker!
+I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Open Source Contributor and a Speaker!
+ 
 
-🌱 I’m currently learning: Deep Learning
+🌱 I’m currently exploring: Deep Learning
 
 🔭 I’m currently working on : Deep Learning with Pytorch.
 
