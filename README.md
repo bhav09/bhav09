@@ -51,4 +51,8 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
+| Flask | NLTK | Spacy | AWS Machine Learning | Data Analysis |
+| :---: | :---: | :---: | :---: | :---: |
+
+
 ![](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&line_height=30)
