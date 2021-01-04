@@ -1,4 +1,6 @@
-<img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
+<img align="right" alt="GIF" src="https://i.ibb.co/xs6nFPD/animation-500-kjipxa0k.gif" width="360"/>
+
+<!--https://i.imgur.com/9GNZGLH.gif
 
 ### Hey there 👋 My name is Bhavishya Pandit! 
 
