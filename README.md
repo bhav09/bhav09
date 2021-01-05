@@ -59,4 +59,6 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 | :---: | :---: | :---: | :---: | :---: |
 
 
-![](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&line_height=30)
+![Bhavishya's github stats](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhav09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
