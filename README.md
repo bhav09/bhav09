@@ -37,7 +37,7 @@ I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Ope
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 Resume : https://rebrand.ly/click_to_view_resume 
+📄 Resume : [Click to view](https://drive.google.com/file/d/1bZzynfRevVh1Md2D4ajD2bv2fnTMWuGk/view?usp=sharing)
 
 ### Languages and Tools-
 
