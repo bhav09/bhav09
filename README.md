@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Open Source Contributor and a Speaker!
+I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Pythonista , Open Source Mentor and a Speaker!
  
 
 🌱 I’m currently exploring: Deep Learning
