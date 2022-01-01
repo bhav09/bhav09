@@ -6,7 +6,9 @@
 
 ### Hey there 👋 My name is Bhavishya Pandit! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaP9) ![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
+**Profile Visitors:** 
+
+![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
 
 <!--
 **bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +39,11 @@ I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Pythonista ,
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 Resume : [Click to view](https://drive.google.com/file/d/1hJqyf9Mg4lcplCsUVT7puDCjIFCOIUns/view?usp=sharing)
+📄 **Resume** : [Click to view](https://drive.google.com/file/d/1hJqyf9Mg4lcplCsUVT7puDCjIFCOIUns/view?usp=sharing)
+
+**We can connect over:**
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaP9) 
 
 ### Languages and Tools-
 
