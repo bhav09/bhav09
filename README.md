@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Pythonista , Open Source Mentor and a Speaker!
  
 
-🌱 I’m currently exploring: Deep Learning
+🌱 **I’m currently exploring:** Deep Learning
 
-🔭 I’m currently working on : Deep Learning with Pytorch.
+🔭 **I’m currently working on:** Deep Learning with Pytorch.
 
-💬 Ask me about: Python , Machine Learning , Cosmos , jokes and a good playlist🎧
+💬 **Ask me about1:** Python , Machine Learning , Cosmos , jokes and a good playlist🎧
 
-⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
+⚡ **Fun fact:** 7% of American adults believe that chocolate milk comes from brown cows.
 
-💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
+💻 **Code carousel:** "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
 📄 **Resume** : [Click to view](https://drive.google.com/file/d/1hJqyf9Mg4lcplCsUVT7puDCjIFCOIUns/view?usp=sharing)
 
@@ -45,7 +45,7 @@ I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Pythonista ,
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaP9) 
 
-### Languages and Tools-
+### Languages and Tools
 
 
 | Python | Sklearn | C++ | Tkinter | Tableau |
