@@ -33,7 +33,7 @@ I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Pythonista ,
 
 🔭 **I’m currently working on:** Deep Learning with Pytorch.
 
-💬 **Ask me about1:** Python , Machine Learning , Cosmos , jokes and a good playlist🎧
+💬 **Ask me about:** Python , Machine Learning , Cosmos , jokes and a good playlist🎧
 
 ⚡ **Fun fact:** 7% of American adults believe that chocolate milk comes from brown cows.
 
