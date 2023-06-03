@@ -39,7 +39,7 @@ I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Pythonista ,
 
 💻 **Code carousel:** "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 **Resume** : [Click to view](https://drive.google.com/file/d/1hJqyf9Mg4lcplCsUVT7puDCjIFCOIUns/view?usp=sharing)
+📄 **Resume** : [Click to view](https://drive.google.com/file/d/1YCWGZBhTN2fA8iefJ3qYcQx5K4thI8AT/view?usp=sharing)
 
 **We can connect over:**
 
