@@ -8,8 +8,7 @@
 
 **Profile Visitors:** 
 
-![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
-
+![](https://komarev.com/ghpvc/?username=bhav09&style=flat-square)
 <!--
 **bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
