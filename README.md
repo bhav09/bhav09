@@ -25,18 +25,18 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Pythonista , Open Source Mentor and a Speaker!
+I am a Data Scientist at Rakuten India, a Linkedin Content creator, Pythonista, Open Source Mentor and a Speaker!
  
 
-🌱 **I’m currently exploring:** Deep Learning
+🌱 **I’m currently exploring:** Generative AI
 
-🔭 **I’m currently working on:** Deep Learning with Pytorch.
+🔭 **I’m currently working on:** Building applications with Genative AI
 
-💬 **Ask me about:** Python , Machine Learning , Cosmos , jokes and a good playlist🎧
+💬 **Ask me about:** Python, Machine Learning, Cosmos, jokes and a good playlist🎧
 
 ⚡ **Fun fact:** 7% of American adults believe that chocolate milk comes from brown cows.
 
-💻 **Code carousel:** "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
+💻 **Code carousel:** "saippuakivikauppias".That's the world's longest palindrome word which is used by Finnish people daily. And here you're not even able to pronounce it😂
 
 📄 **Resume** : [Click to view](https://drive.google.com/file/d/1YCWGZBhTN2fA8iefJ3qYcQx5K4thI8AT/view?usp=sharing)
 
