@@ -32,7 +32,7 @@ I am a Data Scientist at Rakuten India, a Linkedin Content creator, Pythonista, 
 
 🔭 **I’m currently working on:** Building applications with Genative AI
 
-💬 **Ask me about:** Python, Machine Learning, Cosmos, jokes and a good playlist🎧
+💬 **Ask me about** Python, Machine Learning, Cosmos, jokes, Foosball, Swimming, Gym and a good playlist🎧
 
 ⚡ **Fun fact:** 7% of American adults believe that chocolate milk comes from brown cows.
 
