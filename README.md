@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Data Scientist at Rakuten India, a Linkedin Content creator, Pythonista, Open Source Mentor and a Speaker!
+I am a Gen AI Engineer at IBM, a Linkedin Content creator, Pythonista, Open Source Mentor and a Speaker!
  
 
 🌱 **I’m currently exploring:** Generative AI
