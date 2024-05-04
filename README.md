@@ -30,7 +30,7 @@ I am a Gen AI Engineer at IBM, a Linkedin Content creator, Pythonista, Open Sour
 
 🌱 **I’m currently exploring:** Generative AI
 
-🔭 **I’m currently working on:** Building applications with Genative AI
+🔭 **I’m currently working on:** Building applications with Generative AI
 
 💬 **Ask me about** Python, Machine Learning, Cosmos, jokes, Foosball, Swimming, Gym and a good playlist🎧
 
