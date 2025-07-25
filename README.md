@@ -7,7 +7,7 @@
 I’m a senior data scientist at **66degrees** (Google Cloud Premier Partner). I design and ship end‑to‑end AI systems on Google Cloud and have a passion for **sharing knowledge and learning new things** – my how‑to threads and demos have already reached **40 million+ readers on the internet**.
 
 
-## 🚀 Some Non-corporate Contributions
+## 🚀 Some Non-corporate Achievements/Contributions
 
 * **AI for governance** – co‑built an internal productivity platform for the Government of Uttarakhand, india that helps **5 000+ IAS & IPS officers** process files faster and track service‑level agreements.
 * **Speaker at IITs & MHA** – run GenAI workshops at several IIT campuses and delivered a 6‑day AI bootcamp for the Ministry of Home Affairs’ cyber‑crime unit (I4C).
