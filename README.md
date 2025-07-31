@@ -9,12 +9,11 @@ I’m a senior data scientist at **66degrees** (Google Cloud Premier Partner
 
 ## 🚀 Some Non-corporate Achievements/Contributions
 
-* **AI for governance** – co‑built an internal productivity platform for the Government of Uttarakhand, india that helps **5 000+ IAS & IPS officers** process files faster and track service‑level agreements.
-* **Speaker at IITs & MHA** – run GenAI workshops at several IIT campuses and delivered a 6‑day AI bootcamp for the Ministry of Home Affairs’ cyber‑crime unit (I4C).
+* **AI for governance** – built an internal productivity platform for the Government of Uttarakhand, India that helps **5,000+ officers**, including IAS & IPS, process files faster and track service‑level agreements.
+* **Speaker at IITs & MHA** – ran GenAI workshops at several premier institutions like IITs, IIITs, NITs, etc  and delivered a 6‑day AI bootcamp for the Ministry of Home Affairs’ cyber‑crime unit (I4C).
 * **Mentor & educator** – guided **2500+ learners** through bootcamps and 1‑on‑1 mentoring programmes. 
-* **2× GenAI hackathon winner** – built award‑winning prototypes that mix RAG pipelines with multi‑agent orchestration. 
+* **2× GenAI hackathon winner** – built award‑winning prototypes that mix RAG pipelines with multi‑agent orchestration for security and observability of LLMs. 
 * **Open‑source builder** – creator of **Prompt Debugger** (automated prompt‑engineering) and **Giftly** (agent‑based gift recommender) here on GitHub.
-
 
 
 ## 🌱 Currently exploring
