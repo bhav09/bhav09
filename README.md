@@ -25,12 +25,13 @@
   <a href="#connect">Connect</a>
 </p>
 
-<hr/>
+<!-- <hr/> -->
 
 <!-- About (no table) -->
-<img align="right" alt="Night coding animation" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" />
 
 ## About
+
+<img align="right" alt="Night coding animation" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" />
 
 I’m an **AI Builder** with **5+ years** across engineering, business, sales, community, content, and public speaking.
 
