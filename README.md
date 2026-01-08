@@ -43,8 +43,6 @@ I design and ship **production-ready ML + GenAI/LLM systems** that move real bus
   </tr>
 </table>
 
----
-
 ## Impact highlights
 
 <table>
@@ -97,8 +95,6 @@ I design and ship **production-ready ML + GenAI/LLM systems** that move real bus
   </tr>
 </table>
 
----
-
 ## Tech stack
 
 <p align="center">
@@ -120,15 +116,12 @@ I design and ship **production-ready ML + GenAI/LLM systems** that move real bus
   </tr>
 </table>
 
----
-
 ## Currently exploring
 
 - **RAG + Agents** patterns with the **Model Context Protocol (MCP)**
 - **Vertex AI + Cloud Run + BigQuery** for production LLM pipelines
 - **Red-teaming + guardrails** for secure LLMs
 
----
 
 ## Ask me about
 
@@ -136,16 +129,6 @@ I design and ship **production-ready ML + GenAI/LLM systems** that move real bus
 
 Also: jokes, foosball, swimming, gym, and great playlists 🎧
 
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav09&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
----
 
 ## Connect
 
