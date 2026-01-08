@@ -88,14 +88,14 @@ I build **production-ready ML + GenAI/LLM systems** that teams actually use — 
 
   <tr>
     <td><b>Community + content</b></td>
-    <td>LinkedIn Top Voice • Google Developer Expert (GDE) in AI</td>
-    <td><b>40M+</b> views • mentored <b>2,500+</b> learners</td>
+    <td>LinkedIn Top Voice in AI • Google Developer Expert (GDE) in AI</td>
+    <td><b>40M+</b> views • Speaker <b>100+ sessions</b> </td>
   </tr>
 
   <tr>
     <td><b>Speaking</b></td>
     <td>100+ talks & workshops (MHA Govt. of India, IITs, NITs, IIITs)</td>
-    <td>Audience of <b>25k+</b></td>
+    <td>Audience of <b>25,000+</b></td>
   </tr>
 </table>
 
