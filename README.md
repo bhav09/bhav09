@@ -1,51 +1,167 @@
-<img align="right" alt="Bhavishya typing code" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="320"/>
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Bhavishya%20Pandit&fontSize=48&fontColor=ffffff&desc=AI%20Builder%20%7C%20Production%20ML%20%2B%20GenAI%20systems%20that%20move%20business%20metrics&descSize=18&descAlignY=62&animation=fadeIn&color=0:0B1221,100:0EA5E9&section=header" />
+</p>
 
-# Hey there 👋, I’m Bhavishya Pandit
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/demo/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&duration=2600&center=true&vCenter=true&width=900&lines=Shipping+production-ready+ML+%26+GenAI+fast;Measuring+ROI+%7C+Driving+adoption+%7C+Scaling+governance;RAG+%2B+Agents+%2B+MLOps+on+Google+Cloud" />
+  </a>
+</p>
 
-**Profile visitors:** ![](https://komarev.com/ghpvc/?username=bhav09\&style=flat-square)
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhav09&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/bhav09?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/bhav09?label=Stars&style=for-the-badge" />
+</p>
 
-I’m a senior data scientist at **66degrees** (Google Cloud Premier Partner). I design and ship end‑to‑end AI systems on Google Cloud and have a passion for **sharing knowledge and learning new things** – my how‑to threads and demos have already reached **40 million+ readers on the internet**.
+<!-- Quick nav -->
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#impact-highlights">Impact</a> •
+  <a href="#tech-stack">Tech</a> •
+  <a href="#currently-exploring">Now</a> •
+  <a href="#connect">Connect</a>
+</p>
 
+<hr/>
 
-## 🚀 Some Non-corporate Achievements/Contributions
+<!-- Hero layout -->
+<table>
+  <tr>
+    <td width="66%" valign="top">
 
-* **AI for governance** – built an internal productivity platform for the Government of Uttarakhand, India that helps **5,000+ officers**, including IAS & IPS, process files faster and track service‑level agreements.
-* **Speaker at IITs & MHA** – ran GenAI workshops at several premier institutions like IITs, IIITs, NITs, etc  and delivered a 6‑day AI bootcamp for the Ministry of Home Affairs’ cyber‑crime unit (I4C).
-* **Mentor & educator** – guided **2500+ learners** through bootcamps and 1‑on‑1 mentoring programmes. 
-* **2× GenAI hackathon winner** – built award‑winning prototypes that mix RAG pipelines with multi‑agent orchestration for security and observability of LLMs. 
-* **Open‑source builder** – creator of **Prompt Debugger** (automated prompt‑engineering) and **Giftly** (agent‑based gift recommender) here on GitHub.
+## About
 
+I’m an **AI Builder** with **5+ years** across engineering, business, sales, community, content, and public speaking.
 
-## 🌱 Currently exploring
+I design and ship **production-ready ML + GenAI/LLM systems** that move real business metrics — not just demos.
 
-* Tighter **RAG + Agents** patterns with the Model Context Protocol (MCP).
-* Vertex AI, Cloud Run & BigQuery for LLM production pipelines.
-* Red‑teaming and guardrails for **secure LLMs**.
+**Current:** Senior Data Scientist at **66degrees** (Google Cloud Premier Partner).  
+**Focus:** Use-case discovery → solution architecture → governance → scalable production systems.
+  </tr>
+</table>
 
+---
 
+## Impact highlights
 
-## 💬 Ask me about
+<table>
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">What I’ve done</th>
+    <th align="left">Proof / outcomes</th>
+  </tr>
 
-Python • GCP • Machine learning • LLMs/Agents • Jokes • Foosball • Swimming • Gym • Great playlists 🎧
+  <tr>
+    <td><b>Engineering</b></td>
+    <td>Owned the full AI lifecycle: discovery → architecture → governance → production</td>
+    <td>Rebuilt key workflows end-to-end; delivered up to <b>60% productivity gains</b></td>
+  </tr>
 
+  <tr>
+    <td><b>Business</b></td>
+    <td>Aligned AI work to ROI, adoption, and measurable impact across teams</td>
+    <td>Outcome-first delivery (metrics, rollout, enablement)</td>
+  </tr>
 
+  <tr>
+    <td><b>Sales</b></td>
+    <td>Built AI tools/accelerators used by GTM teams to drive revenue</td>
+    <td>Directly contributed to <b>$XX Million</b> in deal closures</td>
+  </tr>
 
-## 🛠️ Tech stack
+  <tr>
+    <td><b>Public sector</b></td>
+    <td>Built an internal productivity platform for Government of Uttarakhand, India</td>
+    <td>Used by <b>5,000+</b> officers (incl. IAS/IPS)</td>
+  </tr>
 
-| Core                                       | Cloud & DevOps                                               | MLOps                                                                  | Data & Viz                                    |
-| :----------------------------------------- | :----------------------------------------------------------- | :--------------------------------------------------------------------- | :-------------------------------------------- |
-| Python, C++, Go, JavaScript                | GCP (BigQuery, Vertex AI, Dataflow, Cloud Run, Pub/Sub), AWS | Kubeflow, MLflow, Vertex AI Pipelines, LangChain, LlamaIndex, Pinecone | SQL, BigQuery, Looker, Tableau, Power BI      |
-| TensorFlow, PyTorch, scikit‑learn, XGBoost | Docker, Kubernetes, Terraform, CircleCI, GitHub Actions      | Weaviate, Elasticsearch, vector DBs                                    | Pandas, NumPy, Matplotlib, Streamlit, FastAPI |
+  <tr>
+    <td><b>Tourism</b></td>
+    <td>Partnered with Saudi Tourism Authority for AI-powered offline experiences</td>
+    <td>Reached <b>10,000+</b> people</td>
+  </tr>
 
+  <tr>
+    <td><b>Community + content</b></td>
+    <td>LinkedIn Top Voice • Google Developer Expert (GDE) in AI</td>
+    <td><b>40M+</b> views • mentored <b>2,500+</b> learners</td>
+  </tr>
 
+  <tr>
+    <td><b>Speaking</b></td>
+    <td>100+ talks & workshops (MHA Govt. of India, IITs, NITs, IIITs)</td>
+    <td>Audience of <b>25k+</b></td>
+  </tr>
+</table>
 
-## 📈 GitHub stats
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhav09\&show_icons=true\&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhav09\&layout=compact\&show_icons=true\&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Tech stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,go,js,gcp,aws,docker,kubernetes,terraform,githubactions,fastapi,tensorflow,pytorch,postgres,elasticsearch&perline=8" />
+</p>
 
+<table>
+  <tr>
+    <th align="left">Core</th>
+    <th align="left">Cloud & DevOps</th>
+    <th align="left">MLOps / LLMOps</th>
+    <th align="left">Data & apps</th>
+  </tr>
+  <tr>
+    <td>Python • C++ • Go • JavaScript</td>
+    <td>GCP (Vertex AI, BigQuery, Dataflow, Cloud Run, Pub/Sub) • AWS</td>
+    <td>Vertex AI Pipelines • MLflow • Kubeflow • LangChain • LlamaIndex • Vector DBs</td>
+    <td>SQL • Looker • Tableau • Power BI • Pandas • FastAPI • Streamlit</td>
+  </tr>
+</table>
 
-## 🤝 Connect with me
+---
 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)  [![Twitter Follow](https://img.shields.io/twitter/follow/BhavishyaP9?style=social)](https://twitter.com/BhavishyaP9)
+## Currently exploring
+
+- **RAG + Agents** patterns with the **Model Context Protocol (MCP)**
+- **Vertex AI + Cloud Run + BigQuery** for production LLM pipelines
+- **Red-teaming + guardrails** for secure LLMs
+
+---
+
+## Ask me about
+
+**ML/GenAI in production**, GCP architecture, evaluation (quality + cost), RAG/agents, MLOps, governance, and making AI usable for real teams.
+
+Also: jokes, foosball, swimming, gym, and great playlists 🎧
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhav09&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/BhavishyaP9">
+    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>If you want to scale AI adoption, automate high-impact workflows, or get measurable results with GenAI + ML — let’s connect.</i>
+  <br/>
+  <i>If you’re looking for a speaker for a talk, workshop, or keynote — hit me up.</i>
+</p>
+
+<!-- Optional: keep your README clean by avoiding too many widgets. Add more only if it helps scanning. -->
