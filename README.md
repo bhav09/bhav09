@@ -1,6 +1,6 @@
-<!-- Header banner -->
+<!-- Header banner (more spacing between name + subtitle) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Bhavishya%20Pandit&fontSize=48&fontColor=ffffff&desc=AI%20Builder%20%7C%20Production%20ML%20%2B%20GenAI%20systems%20that%20move%20business%20metrics&descSize=18&descAlignY=62&animation=fadeIn&color=0:0B1221,100:0EA5E9&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bhavishya%20Pandit&fontSize=54&fontAlignY=38&fontColor=ffffff&desc=AI%20Builder%20%7C%20Production%20ML%20%2B%20GenAI%20systems%20that%20move%20business%20metrics&descSize=18&descAlignY=74&animation=fadeIn&color=0:0B1221,100:0EA5E9&section=header" />
 </p>
 
 <p align="center">
@@ -27,21 +27,24 @@
 
 <hr/>
 
-<!-- Hero layout -->
-<table>
-  <tr>
-    <td width="66%" valign="top">
+<!-- About (no table) -->
+<img align="right" alt="Night coding animation" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" />
 
 ## About
 
 I’m an **AI Builder** with **5+ years** across engineering, business, sales, community, content, and public speaking.
 
-I design and ship **production-ready ML + GenAI/LLM systems** that move real business metrics — not just demos.
+I build **production-ready ML + GenAI/LLM systems** that teams actually use — the kind that **ship fast**, stay **reliable**, and **move business metrics**.
 
-**Current:** Senior Data Scientist at **66degrees** (Google Cloud Premier Partner).  
-**Focus:** Use-case discovery → solution architecture → governance → scalable production systems.
-  </tr>
-</table>
+**My operating system**
+- **Find the right use case** (where ROI is real, not vibes)
+- **Design the system** (data, evals, cost, latency, safety)
+- **Ship to production** (monitoring, governance, iteration)
+- **Drive adoption** (workflow fit, enablement, feedback loops)
+
+**Currently**
+- Senior Data Scientist @ **66degrees** (Google Cloud Premier Partner)
+- Building on **Google Cloud** (Vertex AI, BigQuery, Cloud Run), exploring **RAG + Agents** and **MCP**
 
 ## Impact highlights
 
@@ -67,7 +70,7 @@ I design and ship **production-ready ML + GenAI/LLM systems** that move real bus
   <tr>
     <td><b>Sales</b></td>
     <td>Built AI tools/accelerators used by GTM teams to drive revenue</td>
-    <td>Directly contributed to <b>$XX Million</b> in deal closures</td>
+    <td>Helped close <b>$XX Million</b> in deal value via AI accelerators</td>
   </tr>
 
   <tr>
@@ -122,7 +125,6 @@ I design and ship **production-ready ML + GenAI/LLM systems** that move real bus
 - **Vertex AI + Cloud Run + BigQuery** for production LLM pipelines
 - **Red-teaming + guardrails** for secure LLMs
 
-
 ## Ask me about
 
 **ML/GenAI in production**, GCP architecture, evaluation (quality + cost), RAG/agents, MLOps, governance, and making AI usable for real teams.
@@ -139,6 +141,9 @@ Also: jokes, foosball, swimming, gym, and great playlists 🎧
   <a href="https://twitter.com/BhavishyaP9">
     <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -146,5 +151,3 @@ Also: jokes, foosball, swimming, gym, and great playlists 🎧
   <br/>
   <i>If you’re looking for a speaker for a talk, workshop, or keynote — hit me up.</i>
 </p>
-
-<!-- Optional: keep your README clean by avoiding too many widgets. Add more only if it helps scanning. -->
