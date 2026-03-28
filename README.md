@@ -139,40 +139,6 @@ In 2024 alone, OpenAI retired 7 model variants. If you use `gemini-1.5-flash`, i
   </tr>
 </table>
 
-## Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,go,js,gcp,aws,docker,kubernetes,terraform,githubactions,fastapi,tensorflow,pytorch,postgres,elasticsearch&perline=8" />
-</p>
-
-<table>
-  <tr>
-    <th align="left">Core</th>
-    <th align="left">Cloud & DevOps</th>
-    <th align="left">MLOps / LLMOps</th>
-    <th align="left">Data & apps</th>
-  </tr>
-  <tr>
-    <td>Python · C++ · Go · JavaScript</td>
-    <td>GCP (Vertex AI, BigQuery, Dataflow, Cloud Run, Pub/Sub) · AWS</td>
-    <td>Vertex AI Pipelines · MLflow · Kubeflow · LangChain · LlamaIndex · Vector DBs</td>
-    <td>SQL · Looker · Tableau · Power BI · Pandas · FastAPI · Streamlit</td>
-  </tr>
-</table>
-
-## Currently exploring
-
-- **AI model lifecycle management** — what Chowkidar does today is just the beginning
-- **RAG + Agents** patterns with the **Model Context Protocol (MCP)**
-- **Vertex AI + Cloud Run + BigQuery** for production LLM pipelines
-- **Red-teaming + guardrails** for secure, governed LLMs
-
-## Ask me about
-
-**ML/GenAI in production**, GCP architecture, evaluation (quality + cost), RAG/agents, MLOps, AI governance, model lifecycle management, and making AI actually usable for real teams at real scale.
-
-Also: jokes, foosball, swimming, gym, and great playlists 🎧
-
 ## Connect
 
 <p align="center">
