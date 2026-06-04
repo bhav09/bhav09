@@ -78,7 +78,7 @@ An IDE extension that tracks AI coding costs, model usage, and agent spend acros
   <tr>
     <td><b>Tourism</b></td>
     <td>AI-powered offline experiences with Saudi Tourism Authority</td>
-    <td>Reached <b>10,000+ people</b></td>
+    <td>Delivered Offline Experiences to <b>10,000+ people</b>, showcased to ~150k people in a span of 3 days across 5 cities</td>
   </tr>
   <tr>
     <td><b>Thought leadership</b></td>
@@ -87,7 +87,7 @@ An IDE extension that tracks AI coding costs, model usage, and agent spend acros
   </tr>
   <tr>
     <td><b>Speaking</b></td>
-    <td>100+ talks at MHA Govt. of India, IITs, IIMs, NITs, IIITs</td>
+    <td>100+ talks including at premier institutes like Home Ministry, Govt. of India, IITs, IIMs, NITs, IIITs</td>
     <td>Live audience of <b>25,000+</b></td>
   </tr>
   <tr>
