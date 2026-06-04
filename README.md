@@ -28,7 +28,7 @@
 I turn AI into enterprise value. My impact spans across engineering, business, sales, community, content and public speaking.
 Most people build AI for users. I also build AI for AI — the tools, guardrails, and infrastructure that keep production AI running efficiently.
 
-## Open source — the AI infrastructure layer
+## Open source contributions
 
 ### 🧹 [Jhadoo](https://github.com/bhav09/jhadoo) — `pip install jhadoo`
 Disk hygiene for developers and ML teams. Cleans stale environments, caches, Docker artifacts, and repository clutter with safe recovery workflows.
@@ -87,7 +87,7 @@ An IDE extension that tracks AI coding costs, model usage, and agent spend acros
   </tr>
   <tr>
     <td><b>Speaking</b></td>
-    <td>100+ talks at MHA Govt. of India, IITs, NITs, IIITs</td>
+    <td>100+ talks at MHA Govt. of India, IITs, IIMs, NITs, IIITs</td>
     <td>Live audience of <b>25,000+</b></td>
   </tr>
   <tr>
